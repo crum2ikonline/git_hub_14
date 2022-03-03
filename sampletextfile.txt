@@ -1,2 +1,3 @@
 this is the message for the file
-this is another commit 1 
+this is another commit 1
+git commit
