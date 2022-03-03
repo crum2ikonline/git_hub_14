@@ -1,1 +1,2 @@
 this is the message for the file
+Edit Files in the Working Directory. Edit all the files you have been working on and get them ready to “commit.”
