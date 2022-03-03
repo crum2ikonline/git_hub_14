@@ -1,2 +1,7 @@
 this is the message for the file
+
 Edit Files in the Working Directory. Edit all the files you have been working on and get them ready to “commit.”
+this is another commit 1
+git commit
+this is comparison lecture
+
